@@ -1,0 +1,3 @@
+flutter create my_chat_app
+cd my_chat_app
+flutter run
